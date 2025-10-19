@@ -1,0 +1,46 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}*
+h1 {
+    margin-top: 10px;
+}
+section{
+    padding: 2rem;
+    text-align: center;
+}
+.ABOUT , .PROJECTS{
+    background-color: #fff;
+    margin: 2rem 0;
+}
+.HOME {
+    background-color: #1385d1;
+    color:#fff;
+}
+.HOME p {
+    font-size: 1.5rem;
+    margin-top: 1rem;
+}
+.PROJECTS .PROJECT {
+    margin: 1rem 0;
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+    margin-top: 2rem;
+}
+a:active{
+    color: rgb(37, 168, 168);
+}
+a:link{
+    color: rgb(132, 0, 255);
+}
+a:visited{
+    color: rgb(42, 165, 124);
+}
+a:hover{
+    color: rgb(128, 0, 70);
+}
